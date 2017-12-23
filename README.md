@@ -14,4 +14,6 @@ most recent headline about the user. Uses [twitty](https://www.mathworks.com/mat
 
 See function help for details of how to use each function
 
+[Part I, movieInfo](https://github.com/jarodschneider/movieInfo)
+
 Project.pdf was the provided project instructions
